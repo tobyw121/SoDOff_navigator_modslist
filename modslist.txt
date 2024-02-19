@@ -34,13 +34,13 @@ ModChecksum=cfc876d5941095564e94ce4019bb246e
 ModName=Simple Resource Replacer
 ModAuthor=Aidanamite
 ModDescription=A mod to simplify and manage the installation of resource packs
-ModDownloadLink=https://github.com/Aidanamite/SimpleTextureReplacer/releases/download/2.1.1/SimpleResourceReplacer.dll
+ModDownloadLink=https://github.com/Aidanamite/SimpleTextureReplacer/releases/download/2.2.1/SimpleResourceReplacer.dll
 ModDirectDownload=yes
 ModInstallPath=\BepInEx\plugins\
 ModDependency=BepInEx
 ModCategory=Utility
 ModFileName=SimpleResourceReplacer.dll
-ModChecksum=6f459b73655863536a22a2b2ad10b973
+ModChecksum=633b66f26673a197e05d09d6fa3056fc
 ############################################
 ModName=Spectacular Nadder Skins Mod
 ModAuthor=Tahno (Chameishida)
@@ -166,11 +166,55 @@ ModChecksum=e40163b4933cc29ee4cf7605f9ac9c18
 ModName=Mist Twister Mod (On Zapplejack)
 ModAuthor=Tahno (Chameishida)
 ModDescription=Add Mist Twister to be apply over Zapplejack like the skins.
-ModDownloadLink=https://mega.nz/file/XwM02RIa#cK1GhhJaf40_rR0ZbL0xrgHCe7k5sEAzf5DuQQyhyW8
+ModDownloadLink=https://mega.nz/file/T4kDzKgA#JBw76Ze20VxQD4LF3DFMVuGKUsG1Kll62ouJk8vRuiA
 ModDirectDownload=no
 ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=Misttwister.zip
-ModChecksum=90d2f9e49518b85907671f5c02a323c5
+ModChecksum=2d342c50e685505a13e6c39a01d9bd3f
+############################################
+ModName=Songwool Light Dragon Skin packs (+Deyassification skin)
+ModAuthor=Tahno (Chameishida)
+ModDescription=Add Songwool skins which inspired by fan hybrids concept and the dragon from the gam The Legend of Zelda Tears of Kingdom.
+ModDownloadLink=https://mega.nz/file/fttERLQL#Xp-F3v1EgmE-D37iD4kXQotR1DVAygHIM-ovCRk3iXQ
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=SongwoolUltimate.zip
+ModChecksum=3d083758ff7932fca43bc8533ab2fa8c
+############################################
+ModName=Valentine's Day Skin Pack
+ModAuthor=Fifi Night
+ModDescription=
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1207741069891076126
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Valentines_Day_Pack.zip
+ModChecksum=c564b823b26bf70bc0c08ed0c3621028
+############################################
+ModName=Stormcutter Skins
+ModAuthor=Rarerior
+ModDescription=Adds new 16 Stormcutter skins from other httyd games and 4 customizable skins that can work even in Hidden World
+ModDownloadLink=https://drive.google.com/file/d/1jFfQTXkl4g81HU-vmBpC5kFSlQxtgJOr/view?usp=sharing
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=StormcutterSkins.zip
+ModChecksum=3bfb21598d3d25f22daf8b9902c6bdd2
+############################################
+ModName=Original Night Fury
+ModAuthor=Rarerior
+ModDescription=Adds new 13 Toothless skins with its old model and updated textures. Includes skins from other games, modified skins from School of Dragons and golden Toothless skin
+ModDownloadLink=https://drive.google.com/file/d/193UFBgFoFiweBfe7cbv4Hr2hi2arkhj_/view?usp=sharing
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=OriginalNightFury.zip
+ModChecksum=33625ee09a2fb5a308d9a1f62fbe4c28
 ############################################
