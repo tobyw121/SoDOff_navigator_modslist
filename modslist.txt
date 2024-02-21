@@ -213,8 +213,8 @@ ModDescription=Adds new 13 Toothless skins with its old model and updated textur
 ModDownloadLink=https://drive.google.com/file/d/193UFBgFoFiweBfe7cbv4Hr2hi2arkhj_/view?usp=sharing
 ModDirectDownload=no
 ModInstallPath=\Resource Packs\
-ModDependency=Simple Resource Replacer
+ModDependency=Simple Resource Replacer, Handy Tweaks
 ModCategory=Cosmetic
 ModFileName=OriginalNightFury.zip
-ModChecksum=33625ee09a2fb5a308d9a1f62fbe4c28
+ModChecksum=33ae220f82a59a2c43d46f2c37f468c0
 ############################################
