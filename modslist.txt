@@ -216,5 +216,5 @@ ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer, Handy Tweaks
 ModCategory=Cosmetic
 ModFileName=OriginalNightFury.zip
-ModChecksum=33ae220f82a59a2c43d46f2c37f468c0
+ModChecksum=e0e5285007cbf73a2bb06549d7b8e2c5
 ############################################
