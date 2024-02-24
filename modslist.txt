@@ -166,13 +166,13 @@ ModChecksum=e40163b4933cc29ee4cf7605f9ac9c18
 ModName=Mist Twister Mod (On Zapplejack)
 ModAuthor=Tahno (Chameishida)
 ModDescription=Add Mist Twister to be apply over Zapplejack like the skins.
-ModDownloadLink=https://mega.nz/file/T4kDzKgA#JBw76Ze20VxQD4LF3DFMVuGKUsG1Kll62ouJk8vRuiA
+ModDownloadLink=https://mega.nz/file/KlFwwCSK#xkkgqRIDC7uWv7qGTe_5ccrg45iddxW4uTJwKdH62Kg
 ModDirectDownload=no
 ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=Misttwister.zip
-ModChecksum=2d342c50e685505a13e6c39a01d9bd3f
+ModChecksum=07ea71896798d4a1d30c9607e9e52aaa
 ############################################
 ModName=Songwool Light Dragon Skin packs (+Deyassification skin)
 ModAuthor=Tahno (Chameishida)
