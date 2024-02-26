@@ -218,3 +218,25 @@ ModCategory=Cosmetic
 ModFileName=OriginalNightFury.zip
 ModChecksum=e0e5285007cbf73a2bb06549d7b8e2c5
 ############################################
+ModName=Evolved Speed Stinger (The Nine Realms) Texture
+ModAuthor=SadisticBee
+ModDescription=Data files replacing normal Speed Stinger Texture.
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1211445577963802655/1211446024325832706
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Evolved_Speed_Stinger.zip
+ModChecksum=ed4af986b1c610484c3a9435c4b2bc8c
+############################################
+ModName=Galaxy Songwing
+ModAuthor=SadisticBee
+ModDescription=Data files replacing Songwing Warpaint (!except for hidden world glow, hidden world glow replaces normal look of the Songwing!).
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1211451736271626260/1211452265802768464
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Galaxy_Songwing.zip
+ModChecksum=56e4773c331116e3c1bc164cb00cedd4
+############################################
