@@ -240,3 +240,14 @@ ModCategory=Cosmetic
 ModFileName=Galaxy_Songwing.zip
 ModChecksum=56e4773c331116e3c1bc164cb00cedd4
 ############################################
+ModName=Thunderclaw Mod (on Mudraker)
+ModAuthor=Tahno (Chameishida)
+ModDescription=Add Thunderclaw model to be apply over Mudraker like the skins. Feature normal version and Titan version. Come with the hidden world glow. Can't be apply on baby. Only you will see the dragon unless other people have the mod installed too, otherwise they will see Mudraker. The model are from Dreamworks Dragons: Titan Uprising
+ModDownloadLink=https://mega.nz/file/281UEJJa#-OG3CYPpB38V7QWyHJcXa05Rnq8XOU_HBeoPrwXIkn8
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Thunderclaw.zip
+ModChecksum=6ff107054bba18649175091eef36ece8
+############################################
