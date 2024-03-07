@@ -251,3 +251,25 @@ ModCategory=Cosmetic
 ModFileName=Thunderclaw.zip
 ModChecksum=6ff107054bba18649175091eef36ece8
 ############################################
+ModName=Patch Chimeragon Mod (on Fire terror)
+ModAuthor=Tahno (Chameishida)
+ModDescription=Add Patch the Chimeragom model from Dragons: Dawn of new riders to be apply over Fire terror like the skins. Feature Hero skins for normal and titan version as well as customizable version for both state. Come with the hidden world glow. Can't be apply on baby. Only you will see the dragon unless other people have the mod installed too, otherwise they will see Fire terror The model came from the Dawn of new riders game
+ModDownloadLink=https://mega.nz/file/z9kliKoA#PQOAP8ve5OkVZKlxGUWo-boIdfpIsmQGFAJmuyjeOwE
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=patchnosaddle.zip
+ModChecksum=60289bad54603708e706718ab55c739b
+############################################
+ModName=New Golden Dragon Mod (On Songwing)
+ModAuthor=Tahno (Chameishida)
+ModDescription=Apply Golden dragon model over Songwing, with slight tweak to fit its model. Include Hero version and Customizable version. Come with hidden world glow. Can't be apply on baby. Only you will see the dragon unless other people have the mod installed too, otherwise they will see songwing.
+ModDownloadLink=https://mega.nz/file/rp0QFKRT#BMXKWPk_E1U87s4VLLTPkUtFKMpS7Hry7t1xNJ733Gs
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=GD.zip
+ModChecksum=1805abd3dd8849b50507c56ca481ce42
+############################################
