@@ -283,3 +283,4 @@ ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=shivertooth.zip
 ModChecksum=7ff7ffe5a6b6516158a127f12c204f46
+############################################
