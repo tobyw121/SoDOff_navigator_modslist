@@ -262,14 +262,24 @@ ModCategory=Cosmetic
 ModFileName=patchnosaddle.zip
 ModChecksum=60289bad54603708e706718ab55c739b
 ############################################
-ModName=New Golden Dragon Mod (On Songwing)
+ModName=Long Golden Dragon Mod (On Songwing)
 ModAuthor=Tahno (Chameishida)
 ModDescription=Apply Golden dragon model over Songwing, with slight tweak to fit its model. Include Hero version and Customizable version. Come with hidden world glow. Can't be apply on baby. Only you will see the dragon unless other people have the mod installed too, otherwise they will see songwing.
-ModDownloadLink=https://mega.nz/file/rp0QFKRT#BMXKWPk_E1U87s4VLLTPkUtFKMpS7Hry7t1xNJ733Gs
+ModDownloadLink=https://mega.nz/file/7sEj2aTY#-ZrPieDHYth4Q-pkMI4pbmyXs4N0lAiuq8rPSBufuUk
 ModDirectDownload=no
 ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=GD.zip
-ModChecksum=1805abd3dd8849b50507c56ca481ce42
+ModChecksum=c2dfc71ae31a279be4967db5137d1d25
 ############################################
+ModName=Quadruped Shivertooth Mod (On Windwalker)
+ModAuthor=Tahno (Chameishida)
+ModDescription=Apply Shivertooth model over Windwalker, making it walk on all four like in Rise of Berk. Include Hero version and Customizable version. Come with hidden world glow. Can't be apply on baby. Only you will see the dragon unless other people have the mod installed too, otherwise they will see songwing.
+ModDownloadLink=https://mega.nz/file/zlUCzaiT#N75Hgb7k2Bsc-DLymhfI_HOJgVp5da7iAsbbS9VWy4g
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=shivertooth.zip
+ModChecksum=7ff7ffe5a6b6516158a127f12c204f46
