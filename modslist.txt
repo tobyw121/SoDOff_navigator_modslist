@@ -284,3 +284,69 @@ ModCategory=Cosmetic
 ModFileName=shivertooth.zip
 ModChecksum=7ff7ffe5a6b6516158a127f12c204f46
 ############################################
+ModName=Foreverwing Mod (On Chimeragon)
+ModAuthor=Tahno (Chameishida)
+ModDescription=Add Foreverwing model to be apply over the chimeragon like the skins. Feature Hero skins and customizable version. Come with the hidden world glow. Can't be apply on baby. Only you will see the dragon unless other people have the mod installed too, otherwise they will see the Chimeragon. The model came from the Dragons: Titan Uprising
+ModDownloadLink=https://mega.nz/file/P4sx3QqR#fw6b5USZRXZRLXlGpS5Y3LYXycqI7dlCRNduHDOuGOw
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Foreverwing.zip
+ModChecksum=d5a4ba3b6f535abd92c21a986ae0b8de
+############################################
+ModName=Skrill Hero Skin
+ModAuthor=Furyx12
+ModDescription=The Skrill Hero skin is finally available!
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1216757490159583272/1216757490159583272
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Skrill_Hero_Skin.zip
+ModChecksum=c96d75b4169e60e2a38109b90504ad88
+############################################
+ModName=Customization Greyscale
+ModAuthor=Aidanamite
+ModDescription=Adds a greyscale bar to all the customization windows, dragon, character and items.
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1207032646010675253/1207033195762032711
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=CustomizationGreyscale.zip
+ModChecksum=55579ae6433ce90ac7e0ddc8c5c75d86
+############################################
+ModName=The "Bewildergon" skin pack
+ModAuthor=Aidanamite
+ModDescription=Adds 2 new skins for the Chimeragon with a Bewilderbeast-like appearance (the proportions are a bit different from the original)
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1207032646010675253/1207167009763098644
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Bewildergon.zip
+ModChecksum=b8ea5d4af3e9afbc84f5fe2714fbfae1
+############################################
+ModName=The "Nitefuri" skin
+ModAuthor=Aidanamite
+ModDescription=Adds a new skin for Toothless
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1207032646010675253/1207167624312655882
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=nitefuri.zip
+ModChecksum=190409e0d186e5a818f3d537cbc95d76
+############################################
+ModName=The Hobgobbler Leather Armour
+ModAuthor=Aidanamite
+ModDescription=Adds a new saddle for the Hobgobbler that's a simple bit of leather armour
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1207032646010675253/1208179287757422642
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=HobgobblerArmour.zip
+ModChecksum=583919b416b029635871382af1da678d
+############################################
