@@ -216,7 +216,7 @@ ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer, Handy Tweaks
 ModCategory=Cosmetic
 ModFileName=OriginalNightFury.zip
-ModChecksum=e0e5285007cbf73a2bb06549d7b8e2c5
+ModChecksum=77ad585fa60e7a5201fd103baba0b8ef
 ############################################
 ModName=Evolved Speed Stinger (The Nine Realms) Texture
 ModAuthor=SadisticBee
@@ -298,13 +298,13 @@ ModChecksum=d5a4ba3b6f535abd92c21a986ae0b8de
 ModName=Skrill Hero Skin
 ModAuthor=Furyx12
 ModDescription=The Skrill Hero skin is finally available!
-ModDownloadLink=https://discord.com/channels/1124405524679643318/1216757490159583272/1216757490159583272
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1216757490159583272/1217131954651004959
 ModDirectDownload=no
 ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=Skrill_Hero_Skin.zip
-ModChecksum=c96d75b4169e60e2a38109b90504ad88
+ModChecksum=272c3905118a52ee100100b9a1b1c367
 ############################################
 ModName=Customization Greyscale
 ModAuthor=Aidanamite
@@ -349,4 +349,37 @@ ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=HobgobblerArmour.zip
 ModChecksum=583919b416b029635871382af1da678d
+############################################
+ModName=Crimson Goregutter recolor
+ModAuthor=.+{Tox}+.
+ModDescription=Adds a recolor mask to titan and adult model of crimson goregutter.
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1217058796422037636/1217770660831559740
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=crimsongoregutterrecolormod.zip
+ModChecksum=0b3121d1eb6083f5d8cdee7a81b9e61b
+############################################
+ModName=Original Night Fury Design
+ModAuthor=.+{Tox}+.
+ModDescription=mod author forgot to add proper description :P
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1218317866814668901/1218940299708207155
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=nightfurybluemod.zip
+ModChecksum=1b5801ec2ff76094a6c3d3a40332328e
+############################################
+ModName=Brooding Boltstamper Mod (On Skrill)
+ModAuthor=Tahno (Chameishida)
+ModDescription=Add Brooding Boltstamper; the Skrill X Rumblehorn Hybrids from Titan Uprising to apply on to the Skrill in the customize skin menu. Come with a custmizable skin and a Hero skin. This mod also support Titan form, Titan up your Boltstamper by Titan up your Skrill (Instead of having Titan available as Skin in the customize menu like Mist twister, Patch and Thunderclaw). Come with the hidden world glow, not compatible to baby. Only you will see the dragon unless other people have the mod installed too, otherwise they will see a Skrill. The model are from Dragons: Titan Uprising
+ModDownloadLink=https://mega.nz/file/6tNEgZ4S#XeuCRn1oqm89Xwf3MFz-WOjZYCo9EyMUe2UZsPjBv9k
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=boltstamper.zip
+ModChecksum=410af4f9c655be68b28fabc87b01890d
 ############################################
