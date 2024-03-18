@@ -363,7 +363,7 @@ ModChecksum=0b3121d1eb6083f5d8cdee7a81b9e61b
 ############################################
 ModName=Original Night Fury Design
 ModAuthor=.+{Tox}+.
-ModDescription=mod author forgot to add proper description :P
+ModDescription=Adds a recolor mask to titan and adult model of nightfury.
 ModDownloadLink=https://discord.com/channels/1124405524679643318/1218317866814668901/1218940299708207155
 ModDirectDownload=no
 ModInstallPath=\Resource Packs\
