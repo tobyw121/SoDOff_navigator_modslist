@@ -121,14 +121,14 @@ ModChecksum=cdc2489e4c2e72141fc9d9c709e454c1
 ############################################
 ModName=Night Light Skin Pack 1
 ModAuthor=Tahno (Chameishida)
-ModDescription=This mod will replace ALL of the Nightlight paint skin in the shop with black and white themed skin such as Thunder. Some skins will be shared between the sibling while some exclusive. Baby will only be available for Goggle, Shadow, Splattertail and Bowlcut. None of the skin will be compatible with the hidden world glow.
-ModDownloadLink=https://mega.nz/file/KxVzlCpb#XQgdFOoZYrmuu4XtoLlVzLXoVZkyKNW10Ey5t9P_tVM
+ModDescription=NL Skin pack 1 is now Available as seperate skin for Resource replacer! All the skins now available all across the Night Light Sibling and no skins are exclusive to one now. Meaning Ruffrunner and Pouncer can wear Thunder skin now. Each Having Hidden world glow Built in.
+ModDownloadLink=https://mega.nz/file/7h12yC6a#F1sMoy_hnZbARk09Y2SZ3EwcoGgm1DGa8dMzRJ6nQAs
 ModDirectDownload=no
 ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
-ModFileName=NLskinpack1 - texturereplacer.zip
-ModChecksum=17d0a18974e2417154c5e741a5ae1cf4
+ModFileName=nltest.zip
+ModChecksum=8d1d5c1ac3776a98120e91074efac002
 ############################################
 ModName=Handy Tweaks
 ModAuthor=Aidanamite
@@ -382,4 +382,70 @@ ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=boltstamper.zip
 ModChecksum=410af4f9c655be68b28fabc87b01890d
+############################################
+ModName=Crimson Howler Paints (Pack A)
+ModAuthor=SadisticBee
+ModDescription=Set of new Crimson Howler paints
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1220145587635359845/1220146787168419890
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Crimson_Howler_Paints_Pack_A.zip
+ModChecksum=762f28e6ff1ac469818f7535a29249c7
+############################################
+ModName=Crimson Howler Paints (Pack B)
+ModAuthor=SadisticBee
+ModDescription=Set of new Crimson Howler paints
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1220145587635359845/1220146978705375352
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Crimson_Howler_Paints_Pack_B.zip
+ModChecksum=303897692ff0e7772f8ef86bafee3d60
+############################################
+ModName=Original Light Fury
+ModAuthor=Rarerior
+ModDescription=Adds 7 new Light Fury skins with with the corrected model and updated textures
+ModDownloadLink=https://drive.google.com/file/d/1XZQJLm_IYDSBFbzmZMVJtPXxZ78YtOAK/view?usp=sharing
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=OriginalLightFury.zip
+ModChecksum=6eed2e23f2b87302214e39a4f81c4651
+############################################
+ModName=Lightning McToothless
+ModAuthor=Rarerior
+ModDescription=The unholy offspring of lightning and death itself... But it's Lightning McQueen now
+ModDownloadLink=https://drive.google.com/file/d/1X3kMD7idF4eeDPRSx0sfhBbPZFLg8-FA/view?usp=sharing
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=McToohtless.zip
+ModChecksum=7d5ad5ff2649bdfe4394d897fbb38368
+############################################
+ModName=Baby night fury
+ModAuthor=Paper cliped
+ModDescription=Adds a skin for the teen Dart model that looks like a baby night fury.
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1220810511059521536/1220810511059521536
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=babynightfurytext.zip
+ModChecksum=c94d622c468f9f08b2897762d11d2380
+############################################
+ModName=Customizable Night Fury
+ModAuthor=Roytiie
+ModDescription=Adds new Night Fury skin for toothless
+ModDownloadLink=https://drive.google.com/file/d/1RkYimA-36XU0j8Hodujzg9D14cvOXhLJ/view?usp=sharing
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=nightfury (3).zip
+ModChecksum=43fa78513048cd7565b95c5de01c2855
 ############################################
