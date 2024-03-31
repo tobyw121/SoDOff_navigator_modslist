@@ -411,7 +411,7 @@ ModDescription=Adds 7 new Light Fury skins with with the corrected model and upd
 ModDownloadLink=https://drive.google.com/file/d/1XZQJLm_IYDSBFbzmZMVJtPXxZ78YtOAK/view?usp=sharing
 ModDirectDownload=no
 ModInstallPath=\Resource Packs\
-ModDependency=Simple Resource Replacer
+ModDependency=Simple Resource Replacer, Handy Tweaks
 ModCategory=Cosmetic
 ModFileName=OriginalLightFury.zip
 ModChecksum=6eed2e23f2b87302214e39a4f81c4651
@@ -430,12 +430,12 @@ ModChecksum=7d5ad5ff2649bdfe4394d897fbb38368
 ModName=Baby night fury
 ModAuthor=Paper cliped
 ModDescription=Adds a skin for the teen Dart model that looks like a baby night fury.
-ModDownloadLink=https://discord.com/channels/1124405524679643318/1220810511059521536/1220810511059521536
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1221507943376228472/1221507943376228472
 ModDirectDownload=no
 ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
-ModFileName=babynightfurytext.zip
+ModFileName=babynightfurytext.spproject.zip
 ModChecksum=c94d622c468f9f08b2897762d11d2380
 ############################################
 ModName=Customizable Night Fury
@@ -448,4 +448,92 @@ ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=nightfury (3).zip
 ModChecksum=43fa78513048cd7565b95c5de01c2855
+############################################
+ModName=Spider-Deathgripper 2099
+ModAuthor=Rarerior
+ModDescription=Adds one new skin for Deathgripper - Miguel O'Hara skin aka Spider-Deathgripper 2099 skin
+ModDownloadLink=https://drive.google.com/file/d/1O5oXoF2YsZ9t7MqaZP6Vo4iIp3uKH4RT/view?usp=sharing
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Miguel O'Hara.zip
+ModChecksum=f59ee5571a8404d25bd0e5234d631264
+############################################
+ModName=Toothless without left tail fin
+ModAuthor=Paper cliped
+ModDescription=none
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1221506934700642375/1221506934700642375
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=RemovedTail.zip
+ModChecksum=18d90ec5604b3405a59c271333295f5d
+############################################
+ModName=Deathly Galeslash Titan Model/Skins (From Titan Uprising)
+ModAuthor=LillaDragonLady
+ModDescription=The mod adds the Titan and adult Deathly Galeslash with 2 skins from Titan Uprising: Copsekeeper (green galeslash) and the Celestial Royalwing (yellow galslash) Item ID:  8800006 (Copsekeeper Titan), 8800007 (Celestial Royalwing Titan), 8800008 (Copsekeeper Adult), 8800009 (Celestial Royalwing Adult).
+ModDownloadLink=https://drive.google.com/file/d/125dSxka-geMKvEP0Y7FRaYvYqMfyTGDH/view?usp=sharing
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Galeslash.zip
+ModChecksum=fe9166d7806fcf08658cb2bc0e118e7b
+############################################
+ModName=Deadly Nadder Adult/Titan Model/Skins (From titan uprising)
+ModAuthor=LillaDragonLady
+ModDescription=The mod adds the Titan Deadly Nadder model from Titan uprising and adds 5 skins with it: Stormfly skin, NewYear nadder skin, Red nadder skin, rainbow nadder skin and Harvest Stormfly skin. Item ID:  8800001 (Red nadder),  8800002 (Harvest Stormfly), 8800003 (rainbow nadder), 8800004 (NewYear nadder), 8800005 (Stormfly).
+ModDownloadLink=https://drive.google.com/file/d/1iWp0Na5FRXYZ8-nqsaOYxzlx9uLyppzC/view?usp=sharing
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Nadder.zip
+ModChecksum=aac8749b684c2e1bf27bbc76b7d37b42
+############################################
+ModName=Titan Eruptodon Mod
+ModAuthor=Tahno (Chameishida)
+ModDescription=Adding Titan Eruptodon model to the Eruptodon's customizable window as a skin, along with the Hero skin and the Ice Eruptodon skin for the model, Come with hidden world glow, not compatible to baby. Only you will see the dragon unless other people have the mod installed too, otherwise they will see a regular Eruptodon. The model are from Dragons: Titan Uprising
+ModDownloadLink=https://mega.nz/file/qtkG1DqI#6qc71ko-XGborWmih9l5mXZwHL-z0FC93bA8BYOMB1I
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=eruptodon.zip
+ModChecksum=4b15ff27bc180e4323f78cb3e9068453
+############################################
+ModName=Nadder Rose sisters Skinpack (Blue Rose)
+ModAuthor=Furyx12
+ModDescription=Heya everyone! I finally made the Rose sisters skins. Hope you enjoy it
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1222832365613875292/1222832365613875292
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Blue_Rose.zip
+ModChecksum=d71cc2b4539b59d6106d5bbf6b3f23e6
+############################################
+ModName=Nadder Rose sisters Skinpack (Black Rose)
+ModAuthor=Furyx12
+ModDescription=Heya everyone! I finally made the Rose sisters skins. Hope you enjoy it
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1222832365613875292/1222832365613875292
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Black_Rose.zip
+ModChecksum=ce5618e47f9e244f0f7e125f2b7dc272
+############################################
+ModName=Nadder Rose sisters Skinpack (Thorn Rose)
+ModAuthor=Furyx12
+ModDescription=Heya everyone! I finally made the Rose sisters skins. Hope you enjoy it
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1222832365613875292/1222832365613875292
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Thorn_Rose.zip
+ModChecksum=1caa20ddac1039d19f6d2bf352f7ca63
 ############################################
