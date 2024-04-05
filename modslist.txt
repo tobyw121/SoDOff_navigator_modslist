@@ -1,12 +1,12 @@
 ModName=Client Bugfixes
 ModAuthor=Aidanamite
 ModDescription=Numerous client bug fixes
-ModDownloadLink=https://github.com/Aidanamite/Bugfixes/releases/download/1.0.11/Bugfixes.dll
+ModDownloadLink=https://github.com/Aidanamite/Bugfixes/releases/download/1.0.11/Bugfixes-Desktop.dll
 ModDirectDownload=yes
 ModInstallPath=\BepInEx\plugins\
 ModDependency=Config Tweaks
 ModCategory=Utility
-ModFileName=Bugfixes.dll
+ModFileName=Bugfixes-Desktop.dll
 ModChecksum=873b807f262f53c1add2940d5b62ce55
 ############################################
 ModName=Config Tweaks
