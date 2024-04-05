@@ -34,13 +34,13 @@ ModChecksum=cfc876d5941095564e94ce4019bb246e
 ModName=Simple Resource Replacer
 ModAuthor=Aidanamite
 ModDescription=A mod to simplify and manage the installation of resource packs
-ModDownloadLink=https://github.com/Aidanamite/SimpleTextureReplacer/releases/download/2.2.1/SimpleResourceReplacer.dll
+ModDownloadLink=https://github.com/Aidanamite/SimpleTextureReplacer/releases/download/2.3.0/SimpleResourceReplacer.dll
 ModDirectDownload=yes
 ModInstallPath=\BepInEx\plugins\
 ModDependency=BepInEx
 ModCategory=Utility
 ModFileName=SimpleResourceReplacer.dll
-ModChecksum=633b66f26673a197e05d09d6fa3056fc
+ModChecksum=814d23875a443a057a0197ce35ab49f8
 ############################################
 ModName=Spectacular Nadder Skins Mod
 ModAuthor=Tahno (Chameishida)
@@ -232,13 +232,13 @@ ModChecksum=ed4af986b1c610484c3a9435c4b2bc8c
 ModName=Galaxy Songwing
 ModAuthor=SadisticBee
 ModDescription=Data files replacing Songwing Warpaint (!except for hidden world glow, hidden world glow replaces normal look of the Songwing!).
-ModDownloadLink=https://discord.com/channels/1124405524679643318/1211451736271626260/1211452265802768464
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1211451736271626260/1224448011355029635
 ModDirectDownload=no
 ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
-ModFileName=Galaxy_Songwing.zip
-ModChecksum=56e4773c331116e3c1bc164cb00cedd4
+ModFileName=Glaxy_Songwing.zip
+ModChecksum=2d27578d168e249e0e43c8e792395829
 ############################################
 ModName=Thunderclaw Mod (on Mudraker)
 ModAuthor=Tahno (Chameishida)
@@ -480,18 +480,18 @@ ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=Galeslash.zip
-ModChecksum=fe9166d7806fcf08658cb2bc0e118e7b
+ModChecksum=b21f1c909073677b53644a3f5cfb0fba
 ############################################
 ModName=Deadly Nadder Adult/Titan Model/Skins (From titan uprising)
 ModAuthor=LillaDragonLady
 ModDescription=The mod adds the Titan Deadly Nadder model from Titan uprising and adds 5 skins with it: Stormfly skin, NewYear nadder skin, Red nadder skin, rainbow nadder skin and Harvest Stormfly skin. Item ID:  8800001 (Red nadder),  8800002 (Harvest Stormfly), 8800003 (rainbow nadder), 8800004 (NewYear nadder), 8800005 (Stormfly).
-ModDownloadLink=https://drive.google.com/file/d/1iWp0Na5FRXYZ8-nqsaOYxzlx9uLyppzC/view?usp=sharing
+ModDownloadLink=https://drive.google.com/file/d/1P1ZmgVXCxhi8NoveYgnmfWa1yJgvp2Kk/view?usp=sharing
 ModDirectDownload=no
 ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=Nadder.zip
-ModChecksum=aac8749b684c2e1bf27bbc76b7d37b42
+ModChecksum=7515d6cdfb3cd8e6bfe028a1c25a7ff3
 ############################################
 ModName=Titan Eruptodon Mod
 ModAuthor=Tahno (Chameishida)
@@ -536,4 +536,70 @@ ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=Thorn_Rose.zip
 ModChecksum=1caa20ddac1039d19f6d2bf352f7ca63
+############################################
+ModName=The Narwhal Mod on Smothering Smokebreath (April Fools'!)
+ModAuthor=Tahno (Chameishida)
+ModDescription=Add Narwhal model onto the smothering smokebreath dragon's customize menu. Come with a custmizable narwhal skin, Hero narwhal skin, customizable bubblehorn skin and Hero bubblehorn skin.  Come with the hidden world glow, not compatible to baby. Only you will see the dragon unless other people have the mod installed too, otherwise they will see a smokebreath
+ModDownloadLink=https://mega.nz/file/XldjhDyB#vgo_Qs_fH4bva27N9wGvNtHG8GHf8FJyS1LxdjVbnI4
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=narwhal.zip
+ModChecksum=8e108a21e65b25714d04f1de6c30d687
+############################################
+ModName=Rayfury and F*cked up Globox mod
+ModAuthor=Fifi/Frija
+ModDescription=Globox skin is for Groncle and Rayfury for Generic light fury
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1224306751281561600/1224306751281561600
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer, Config Tweaks
+ModCategory=Cosmetic
+ModFileName=RayDragon.zip
+ModChecksum=5e0b5760c71660d6e226056716c7a019
+############################################
+ModName=Loki Pack
+ModAuthor=SadisticBee
+ModDescription=A couple of skins to celebrate april fools.
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1224317004945821818/1224317111673946113
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Loki_Pack.zip
+ModChecksum=634fc5917ebd357488092679e5f33855
+############################################
+ModName=Loki Pack (no Eyefull)
+ModAuthor=SadisticBee
+ModDescription=A couple of skins to celebrate april fools.
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1224317004945821818/1224317175452663838
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Loki_Pack_no_Eyefull.zip
+ModChecksum=ba0f080489cf67ad1823e04e9a86f684
+############################################
+ModName=Roxy's Colorable Toothless Skin Mod
+ModAuthor=Roxy
+ModDescription=Normally, School of Dragons disables the mere option of spending gems in order to switch up Toothless' colors. With Aidanamite's Handy Tweaks mod however, you are able to override that entirely (and as a bonus you're also able to rename Toothless and the fury family too!).
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1225035100119629824/1225035100119629824
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer, Handy Tweaks
+ModCategory=Cosmetic
+ModFileName=Colorable_Toothless_Skin_Mod.zip
+ModChecksum=5834e8a680fa74f12ecb28ae07770e96
+############################################
+ModName=DeathGripper Adult/Titan Models/Skins (From Titan Uprising)
+ModAuthor=LillaDragonLady
+ModDescription=The mod adds the Titan and adult DeathGripper with 7 skins: DeathGripperHero adult/titan (ID 8800010), DeathGripperHalloween adult/titan (ID 8800011), DeathGripperGreen adult/titan (ID 8800012), DeathGripperBlue adult/titan (ID 8800013), DeathGripperRed adult (ID 8800014), DeathGripperPurple adult (ID 8800015), DeathGripperPurpleBue adult (ID 8800016).
+ModDownloadLink=https://drive.google.com/file/d/166pOW_bG3ZQvX3aMB_Qp4SP528RP3fh9/view?usp=sharing
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=DeathGripper.zip
+ModChecksum=abbe75614ad0e23719819f28c08d40f7
 ############################################

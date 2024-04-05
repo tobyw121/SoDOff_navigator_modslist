@@ -36,3 +36,4 @@ e05084feeca5c2954e438c55fbfc07ed //Simple Texture Replacer 1.1.0
 44d83515ba2316c36a9577de7ddc587d //Simple Resource Replacer 2.1.0
 6f459b73655863536a22a2b2ad10b973 //Simple Resource Replacer 2.1.1
 51f95d4dd303e97b0349a45c76865062 //Simple Resource Replacer 2.2.0
+633b66f26673a197e05d09d6fa3056fc //Simple Resource Replacer 2.2.1
