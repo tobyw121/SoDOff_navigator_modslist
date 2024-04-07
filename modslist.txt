@@ -34,13 +34,13 @@ ModChecksum=cfc876d5941095564e94ce4019bb246e
 ModName=Simple Resource Replacer
 ModAuthor=Aidanamite
 ModDescription=A mod to simplify and manage the installation of resource packs
-ModDownloadLink=https://github.com/Aidanamite/SimpleTextureReplacer/releases/download/2.3.0/SimpleResourceReplacer.dll
+ModDownloadLink=https://github.com/Aidanamite/SimpleTextureReplacer/releases/download/2.3.1/SimpleResourceReplacer.dll
 ModDirectDownload=yes
 ModInstallPath=\BepInEx\plugins\
 ModDependency=BepInEx
 ModCategory=Utility
 ModFileName=SimpleResourceReplacer.dll
-ModChecksum=814d23875a443a057a0197ce35ab49f8
+ModChecksum=a560960530386a95ec52c25d1180eb3d
 ############################################
 ModName=Spectacular Nadder Skins Mod
 ModAuthor=Tahno (Chameishida)
@@ -602,4 +602,15 @@ ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=DeathGripper.zip
 ModChecksum=abbe75614ad0e23719819f28c08d40f7
+############################################
+ModName=Titan Uprising Toothless Mod
+ModAuthor=Tahno (Chameishida)
+ModDescription=Add Toothless Model from Titan Uprising into Toothless' customization window option. Comes with classic and festive paints such as St. Patrick, Equinox, Snoggletog and Dreadfall, along with Alpha varient for each. Come with the hidden world glow, no baby. Only you will see the dragon unless other people have the mod installed too, otherwise they will see normal Toothless. Model are from Dragons: Titan Uprising
+ModDownloadLink=https://mega.nz/file/Gh8FURTa#ncmsBrDBuWwU-cZ59A0xQiFuPeJGYr3dOfXHK_LBSdI
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=toothlessold.zip
+ModChecksum=9b6a1467dc4f25125abd0cf392afa92a
 ############################################
