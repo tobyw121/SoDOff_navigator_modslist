@@ -27,6 +27,7 @@ fc75b51d1995c3518e254c7751e12043 //Handy Tweaks 1.0.5
 3e3fe2ff447463a67d687918fa1ab91c //Handy Tweaks 1.0.8
 bc0835e3a20d06095703ec649870735b //Handy Tweaks 1.0.9
 c23a1d3fdfb4646d53cdacd642cdaa68 //Handy Tweaks 1.0.10
+4d5910c68453310e07870d3bcfd53364 //Handy Tweaks 1.1.1
 eb4266cde9bdb9b023620dbdc5261832 //Simple Texture Replacer 1.0.0
 b41146c259cf4ac08a9f75c8d9b4b93f //Simple Texture Replacer 1.0.1
 8ea8206b722ad55863c1e48193436d67 //Simple Texture Replacer 1.0.2
