@@ -34,13 +34,13 @@ ModChecksum=cfc876d5941095564e94ce4019bb246e
 ModName=Simple Resource Replacer
 ModAuthor=Aidanamite
 ModDescription=A mod to simplify and manage the installation of resource packs
-ModDownloadLink=https://github.com/Aidanamite/SimpleTextureReplacer/releases/download/2.3.1/SimpleResourceReplacer.dll
+ModDownloadLink=https://github.com/Aidanamite/SimpleTextureReplacer/releases/download/2.3.2/SimpleResourceReplacer.dll
 ModDirectDownload=yes
 ModInstallPath=\BepInEx\plugins\
 ModDependency=BepInEx
 ModCategory=Utility
 ModFileName=SimpleResourceReplacer.dll
-ModChecksum=a560960530386a95ec52c25d1180eb3d
+ModChecksum=cfb186ea4b48844b92ac03101a0d307a
 ############################################
 ModName=Spectacular Nadder Skins Mod
 ModAuthor=Tahno (Chameishida)
@@ -613,4 +613,37 @@ ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=toothlessold.zip
 ModChecksum=9b6a1467dc4f25125abd0cf392afa92a
+############################################
+ModName=Shellfire Mod (On Thunderdrum)
+ModAuthor=Tahno (Chameishida)
+ModDescription=Add Shellfire model into thunderdrum' customization window option. Come with Hero and customizable skin. Come with the hidden world glow. Not compatible to baby but compatible to titan the dragon up (though the model doesn't change) Only you will see the dragon unless other people have the mod installed too, otherwise they will see normal thunderdrum. Model are from Dragons: Titan Uprising
+ModDownloadLink=https://mega.nz/file/bk1SGBSC#GTagFFvc4A6Htzr28FWbiC0dtYviwit27fUzj2v1JRA
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Shellfire.zip
+ModChecksum=7dd6fc7a3c3efa83359496c474fd9f74
+############################################
+ModName=Light Fury (Membership) Adult/Titan Skins/Models (from Titan uprising)
+ModAuthor=LillaDragonLady
+ModDescription=The mod contains the Titan and adult Lightfury (can only used on adult light fury) with 3 skins and 2 model, adult and titan: LightfuryHero adult (ID 8800017), LightfuryHero titan (ID 8800018), LightfurySnoggletog adult (ID 8800019), LightfurySnoggeltog titan (ID 8800020), LightfuryValentine adult (ID 8800021), LightfuryValentine Titan (ID 8800022).
+ModDownloadLink=https://mega.nz/file/Y2kCwCyD#U5I4THvwqr5f7Cimf-rnynfzwSrWykxoNgAi0QzDuO4
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Lightfury(Membership).zip
+ModChecksum=b3c434f2bfbf9b558dbe1534d72d4546
+############################################
+ModName=The Ender Dragon
+ModAuthor=Aidanamite
+ModDescription=Adds an ender dragon skin for the Songwing
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1207032646010675253/1228150222484541474
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=enderdragon.zip
+ModChecksum=d24559cb3c3dc88d7c91dd99d8292870
 ############################################
