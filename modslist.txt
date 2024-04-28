@@ -133,13 +133,13 @@ ModChecksum=8d1d5c1ac3776a98120e91074efac002
 ModName=Handy Tweaks
 ModAuthor=Aidanamite
 ModDescription=Adds various optional QoL changes
-ModDownloadLink=https://github.com/Aidanamite/HandyTweaks/releases/download/1.1.3/HandyTweaks.dll
+ModDownloadLink=https://github.com/Aidanamite/HandyTweaks/releases/download/1.3.0/HandyTweaks.dll
 ModDirectDownload=yes
 ModInstallPath=\BepInEx\plugins\
 ModDependency=Config Tweaks
 ModCategory=Utility
 ModFileName=HandyTweaks.dll
-ModChecksum=b5c4d5468d91f8510e512b302e6e4702
+ModChecksum=7abac89dece4969811645434504faaf8
 ############################################
 ModName=Battle Replay
 ModAuthor=Aidanamite
@@ -474,24 +474,24 @@ ModChecksum=18d90ec5604b3405a59c271333295f5d
 ModName=Deathly Galeslash Titan Model/Skins (From Titan Uprising)
 ModAuthor=LillaDragonLady
 ModDescription=The mod adds the Titan and adult Deathly Galeslash with 2 skins from Titan Uprising: Copsekeeper (green galeslash) and the Celestial Royalwing (yellow galslash) Item ID:  8800006 (Copsekeeper Titan), 8800007 (Celestial Royalwing Titan), 8800008 (Copsekeeper Adult), 8800009 (Celestial Royalwing Adult).
-ModDownloadLink=https://drive.google.com/file/d/125dSxka-geMKvEP0Y7FRaYvYqMfyTGDH/view?usp=sharing
+ModDownloadLink=https://mega.nz/file/dyVG2TxT#Uf8w3_2rA9HMgCQudOCiMmFtjGDwnvtJcSzwTmV7FG4
 ModDirectDownload=no
 ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=Galeslash.zip
-ModChecksum=b21f1c909073677b53644a3f5cfb0fba
+ModChecksum=743bc4f75dab744b102f2eda7211e34c
 ############################################
 ModName=Deadly Nadder Adult/Titan Model/Skins (From titan uprising)
 ModAuthor=LillaDragonLady
 ModDescription=The mod adds the Titan Deadly Nadder model from Titan uprising and adds 5 skins with it: Stormfly skin, NewYear nadder skin, Red nadder skin, rainbow nadder skin and Harvest Stormfly skin. Item ID:  8800001 (Red nadder),  8800002 (Harvest Stormfly), 8800003 (rainbow nadder), 8800004 (NewYear nadder), 8800005 (Stormfly).
-ModDownloadLink=https://drive.google.com/file/d/1P1ZmgVXCxhi8NoveYgnmfWa1yJgvp2Kk/view?usp=sharing
+ModDownloadLink=https://mega.nz/file/U3UQRaSZ#gHH0qXIWiFM4ggnQURK6abNL2PKE9rHVmCHzMicrMF8
 ModDirectDownload=no
 ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=Nadders.zip
-ModChecksum=481a4b968afcbce057cfc8e6f5fbdc90
+ModChecksum=31db16a32bb172c0a52d442ecd112aeb
 ############################################
 ModName=Titan Eruptodon Mod
 ModAuthor=Tahno (Chameishida)
@@ -595,13 +595,13 @@ ModChecksum=5834e8a680fa74f12ecb28ae07770e96
 ModName=DeathGripper Adult/Titan Models/Skins (From Titan Uprising)
 ModAuthor=LillaDragonLady
 ModDescription=The mod adds the Titan and adult DeathGripper with 7 skins: DeathGripperHero adult/titan (ID 8800010), DeathGripperHalloween adult/titan (ID 8800011), DeathGripperGreen adult/titan (ID 8800012), DeathGripperBlue adult/titan (ID 8800013), DeathGripperRed adult (ID 8800014), DeathGripperPurple adult (ID 8800015), DeathGripperPurpleBue adult (ID 8800016).
-ModDownloadLink=https://drive.google.com/file/d/166pOW_bG3ZQvX3aMB_Qp4SP528RP3fh9/view?usp=sharing
+ModDownloadLink=https://mega.nz/file/t30khbYJ#jBbiXYnYH35BIY9Kr7nW2fy2WrEPEdBSd2EIibHiw4o
 ModDirectDownload=no
 ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=DeathGripper.zip
-ModChecksum=abbe75614ad0e23719819f28c08d40f7
+ModChecksum=178fb6dbb558f6c5d18a223e235a8df2
 ############################################
 ModName=Titan Uprising Toothless Mod
 ModAuthor=Tahno (Chameishida)
@@ -628,13 +628,13 @@ ModChecksum=7dd6fc7a3c3efa83359496c474fd9f74
 ModName=Light Fury (Membership) Adult/Titan Skins/Models (from Titan uprising)
 ModAuthor=LillaDragonLady
 ModDescription=The mod contains the Titan and adult Lightfury (can only used on adult light fury) with 3 skins and 2 model, adult and titan: LightfuryHero adult (ID 8800017), LightfuryHero titan (ID 8800018), LightfurySnoggletog adult (ID 8800019), LightfurySnoggeltog titan (ID 8800020), LightfuryValentine adult (ID 8800021), LightfuryValentine Titan (ID 8800022).
-ModDownloadLink=https://mega.nz/file/Y2kCwCyD#U5I4THvwqr5f7Cimf-rnynfzwSrWykxoNgAi0QzDuO4
+ModDownloadLink=https://mega.nz/file/lidFibYB#x0ErjN4Q4vUk9HS9YbtgpxWattrXMRD2vgRggykjgGw
 ModDirectDownload=no
 ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=Lightfury(Membership).zip
-ModChecksum=b3c434f2bfbf9b558dbe1534d72d4546
+ModChecksum=820a5e2a97b7966e16cd704ceaac14be
 ############################################
 ModName=The Ender Dragon
 ModAuthor=Aidanamite
@@ -679,4 +679,59 @@ ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=LF_simplicity__1.5.zip
 ModChecksum=54bbbc96207fca620d47374e5c8e5c24
+############################################
+ModName=Thunderbottom Mod (On Thunderdrum)
+ModAuthor=Tahno (Chameishida)
+ModDescription=Add Thunderbottom model as Thunderdrum's skin in the customization menu, including customizable Skin, Hero Skin and Molten Skin. Also come with the Titan model if you Titan up your thunderdrum. Compatible with Hidden world glow, Not compatible to baby. Only You and those who install the same mod will see the skin, otherwise they'll see normal Thunderdrum.
+ModDownloadLink=https://mega.nz/file/2ws0DLzI#eV4FqyqFY9iPNJI2vQ0TMAlNzM_QZHkmAboSNYfxiCU
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=thunderbottom.zip
+ModChecksum=ce6eb19c057966145552dc463ce0a29e
+############################################
+ModName=Dragon Resizer
+ModAuthor=Aidanamite
+ModDescription=Allows configuring the size of dragons by age and species
+ModDownloadLink=https://github.com/Aidanamite/DragonResizer/releases/download/1.0.2/DragonResizer.dll
+ModDirectDownload=yes
+ModInstallPath=\BepInEx\plugins\
+ModDependency=Config Tweaks
+ModCategory=Utility
+ModFileName=DragonResizer.dll
+ModChecksum=593e4ef1430a40720b4d1f67b2c2d5fb
+############################################
+ModName=Newtralizer Skin
+ModAuthor=Furyx12
+ModDescription=Newtralizer (tmnt 2012) got me the idea, and it works on Cavern Crasher. Hope you'll like it.
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1232730212073082950/1232730212073082950
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Newtralizer_Skin.zip
+ModChecksum=ba03172f3bda5ccc0ae7c710644e2db4
+############################################
+ModName=Normal Nadder (Hero) Skin
+ModAuthor=Furyx12
+ModDescription=Finally arrived, i know you guys wanted so long this skin, so now it's here.
+ModDownloadLink=https://discord.com/channels/1124405524679643318/1233064415578947624/1233064415578947624
+ModDirectDownload=no
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Normal_Nadder.zip
+ModChecksum=aaa8828cf4a7042352435ae610f151ed
+############################################
+ModName=It's Playtime
+ModAuthor=Aidanamite
+ModDescription=Restores some removed minigames: Playing with your dragon, Eel Roast and Element Match
+ModDownloadLink=https://github.com/Aidanamite/ItsPlaytime/releases/download/1.0.0/ItsPlaytime.dll
+ModDirectDownload=yes
+ModInstallPath=\BepInEx\plugins\
+ModDependency=BepInEx
+ModCategory=Utility
+ModFileName=ItsPlaytime.dll
+ModChecksum=e81736124b81a3c30c43164dddb143b9
 ############################################
