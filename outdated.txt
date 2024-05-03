@@ -36,6 +36,9 @@ b5c4d5468d91f8510e512b302e6e4702 //Handy Tweaks 1.1.3
 6853cc7e0efd8542cfc0e880275fad28 //Handy Tweaks 1.2.1
 7abac89dece4969811645434504faaf8 //Handy Tweaks 1.3.0
 9179a10a8092eac48fb68df0b5cd6860 //Handy Tweaks 1.4.0
+a6c5fe6a5ddcd01e43244e671247a00a //Handy Tweaks 1.4.1
+25c746ee23a603879daf9225d75713cf //Handy Tweaks 1.4.2
+e81736124b81a3c30c43164dddb143b9 //It's Playtime 1.0.0
 eb4266cde9bdb9b023620dbdc5261832 //Simple Texture Replacer 1.0.0
 b41146c259cf4ac08a9f75c8d9b4b93f //Simple Texture Replacer 1.0.1
 8ea8206b722ad55863c1e48193436d67 //Simple Texture Replacer 1.0.2
