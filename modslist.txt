@@ -51,7 +51,7 @@ ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
 ModFileName=SpectacularNadderSkinsMod.zip
-ModChecksum=a0582a4ff15e202b3538f87f7a8619d5
+ModChecksum=83EFC3F735159679C3F2B39AAF7FACB828603B2C29486A1E147B0B018D017E24
 ############################################
 ModName=Very Simple Visible Generic Light Fury Mask Mod
 ModAuthor=Tahno (Chameishida)
