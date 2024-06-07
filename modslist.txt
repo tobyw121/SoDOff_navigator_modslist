@@ -40,7 +40,7 @@ ModInstallPath=\BepInEx\plugins\
 ModDependency=BepInEx
 ModCategory=Utility
 ModFileName=SimpleResourceReplacer.dll
-ModChecksum=cfb186ea4b48844b92ac03101a0d307a
+ModChecksum=a42e08306c6fd73a0d0656bec4be89bd
 ############################################
 ModName=Spectacular Nadder Skins Mod
 ModAuthor=Tahno (Chameishida)
