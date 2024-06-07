@@ -42,7 +42,7 @@ ModCategory=Utility
 ModFileName=SimpleResourceReplacer.dll
 ModChecksum=a93718c8e93b2c0c25f875f5a343d901
 ############################################
-ModName=Spectacular Nadder Skins Mod12
+ModName=Spectacular Nadder Skins Mod
 ModAuthor=Tahno (Chameishida)
 ModDescription=Replace 6 skins theme after the spectacular live show include;
 ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/SpectacularNadderSkinsMod.zip
