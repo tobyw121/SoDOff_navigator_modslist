@@ -34,13 +34,13 @@ ModChecksum=cfc876d5941095564e94ce4019bb246e
 ModName=Simple Resource Replacer
 ModAuthor=Aidanamite
 ModDescription=A mod to simplify and manage the installation of resource packs
-ModDownloadLink=https://github.com/Aidanamite/SimpleTextureReplacer/releases/download/2.4.0/SimpleResourceReplacer.dll
+ModDownloadLink=https://github.com/Aidanamite/SimpleTextureReplacer/releases/download/2.3.2/SimpleResourceReplacer.dll
 ModDirectDownload=yes
 ModInstallPath=\BepInEx\plugins\
 ModDependency=BepInEx
 ModCategory=Utility
 ModFileName=SimpleResourceReplacer.dll
-ModChecksum=a93718c8e93b2c0c25f875f5a343d901
+ModChecksum=cfb186ea4b48844b92ac03101a0d307a
 ############################################
 ModName=Spectacular Nadder Skins Mod
 ModAuthor=Tahno (Chameishida)
