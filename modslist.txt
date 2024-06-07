@@ -49,7 +49,7 @@ ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/d
 ModDirectDownload=yes
 ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
-ModCategory=Utility
+ModCategory=Cosmetic
 ModFileName=SpectacularNadderSkinsMod.zip
 ModChecksum=a0582a4ff15e202b3538f87f7a8619d5
 ############################################
