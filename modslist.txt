@@ -49,7 +49,7 @@ ModDownloadLink=https://mega.nz/file/jkMBFTgY#4x3Jt31iRybDtc-VU5uVO6ON55xEXis_Ny
 ModDirectDownload=yes
 ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
-ModCategory=Cosmetic
+ModCategory=Utility
 ModFileName=SpectacularNadderSkinsMod.zip
 ModChecksum=a0582a4ff15e202b3538f87f7a8619d5
 ############################################
