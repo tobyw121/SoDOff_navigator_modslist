@@ -1,7 +1,7 @@
 ModName=SoD_DebugCamera - 1.1.20
 ModAuthor=BlazingTwist
 ModDescription=Reworked SoD mods for use with BepInEx 
-ModDownloadLink=https://github.com/BlazingTwist/SoD_Modding/releases/download/1.1.20/1.1.20.zip
+ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/untagged-1ff6f96b8bfd7cfd55fc/1.1.20.zip
 ModDirectDownload=yes
 ModInstallPath=\
 ModDependency=none
