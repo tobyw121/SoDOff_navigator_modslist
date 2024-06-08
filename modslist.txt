@@ -1,3 +1,14 @@
+ModName=Client Bugfixes Test
+ModAuthor=Aidanamiteeeeeeee
+ModDescription=Numerous client bug fixes
+ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/BepInEx_win_x86_5.4.23.1.zip
+ModDirectDownload=yes
+ModInstallPath=\BepInEx\plugins\
+ModDependency=Config Tweaks
+ModCategory=Cosmetic
+ModFileName=BepInEx_win_x86_5.4.23.1.zip
+ModChecksum=01939db985cc0203ea04063c1ea9d9ff
+############################################
 ModName=Client Bugfixes
 ModAuthor=Aidanamite
 ModDescription=Numerous client bug fixes
