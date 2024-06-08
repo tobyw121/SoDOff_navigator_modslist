@@ -1,4 +1,4 @@
-ModName=(test)SoD_DebugCamera - 1.1.20
+ModName= test SoD_DebugCamera - 1.1.20
 ModAuthor=BlazingTwist
 ModDescription=Reworked SoD mods for use with BepInEx 
 ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Utility/1.1.20.zip
