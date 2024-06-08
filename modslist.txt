@@ -7,7 +7,7 @@ ModInstallPath=\
 ModDependency=none
 ModCategory=Utility
 ModFileName=1.1.20.zip
-ModChecksum=9fc617db7ad38649f398fb830039117f
+ModChecksum=6d1564bee0476e864d2a2dca68689749
 ############################################
 ModName=Client Bugfixes
 ModAuthor=Aidanamite
