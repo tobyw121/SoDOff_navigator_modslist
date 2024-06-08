@@ -628,13 +628,13 @@ ModChecksum=7dd6fc7a3c3efa83359496c474fd9f74
 ModName=Light Fury (Membership) Adult/Titan Skins/Models (from Titan uprising)
 ModAuthor=LillaDragonLady
 ModDescription=The mod contains the Titan and adult Lightfury (can only used on adult light fury) with 3 skins and 2 model, adult and titan: LightfuryHero adult (ID 8800017), LightfuryHero titan (ID 8800018), LightfurySnoggletog adult (ID 8800019), LightfurySnoggeltog titan (ID 8800020), LightfuryValentine adult (ID 8800021), LightfuryValentine Titan (ID 8800022).
-ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/Lightfury(Membership).zip
+ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/LightfuryMembership.zip
 ModDirectDownload=yes
 ModInstallPath=\Resource Packs\
 ModDependency=Simple Resource Replacer
 ModCategory=Cosmetic
-ModFileName=Lightfury(Membership).zip
-ModChecksum=820a5e2a97b7966e16cd704ceaac14be
+ModFileName=LightfuryMembership.zip
+ModChecksum=b8505955762a0552e368a62e334c19ed
 ############################################
 ModName=The Ender Dragon
 ModAuthor=Aidanamite
