@@ -1,3 +1,4 @@
+
 ModName=SoD_DebugCamera - 1.1.20
 ModAuthor=BlazingTwist
 ModDescription=Reworked SoD mods for use with BepInEx 
@@ -52,6 +53,28 @@ ModDependency=BepInEx
 ModCategory=Utility
 ModFileName=SimpleResourceReplacer.dll
 ModChecksum=a93718c8e93b2c0c25f875f5a343d901
+############################################
+ModName=DeathGripper(Monarchic Murderfly) Mod
+ModAuthor=LillaDragonLady (Discord)
+ModDescription=The mod adds the Titan and adult DeathGripper with 8 skins:
+ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/DeathGripper(Monarchic Murderfly).zip
+ModDirectDownload=yes
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=DeathGripper(Monarchic Murderfly).zip
+ModChecksum=34b481847b22773f12f59f5050c00619
+############################################
+ModName=DeathGripper Skins Mod
+ModAuthor=LillaDragonLady (Discord)
+ModDescription=The mod adds the Titan and adult DeathGripper with 8 skins:
+ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/DeathGripper.zip
+ModDirectDownload=yes
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=DeathGripper.zip
+ModChecksum=02a19d4a940d6a937fdf90d15010b574
 ############################################
 ModName=Spectacular Nadder Skins Mod
 ModAuthor=Tahno (Chameishida)
