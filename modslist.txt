@@ -65,6 +65,28 @@ ModCategory=Cosmetic
 ModFileName=DeathGripper.Monarchic.Murderfly.zip
 ModChecksum=34b481847b22773f12f59f5050c00619
 ############################################
+ModName=Golden Wiongs (razorwhip)
+ModAuthor=squeakycinnamonroll (Discord)
+ModDescription=The mod adds Golden Whip Skin for Razorwhip :
+ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/Golden.Wings.zip
+ModDirectDownload=yes
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Golden.Wings.zip
+ModChecksum=79668a1bc065eb6946e49239317d1e49
+############################################
+ModName=Hunted_Night Lights
+ModAuthor=Frija (Discord)
+ModDescription=The mod adds add 3 Skins (Dart,Rufficon,Ruffrunne):
+ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/Hunted_Night_Lights.zip
+ModDirectDownload=yes
+ModInstallPath=\Resource Packs\
+ModDependency=Simple Resource Replacer
+ModCategory=Cosmetic
+ModFileName=Hunted_Night_Lights.zip
+ModChecksum=6b2cca9472ef6dbd761ad1a85dd2002e
+############################################
 ModName=DeathGripper Skins Mod
 ModAuthor=LillaDragonLady (Discord)
 ModDescription=The mod adds the Titan and adult DeathGripper with 8 skins:
