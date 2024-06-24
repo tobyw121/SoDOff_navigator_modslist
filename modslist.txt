@@ -1,4 +1,3 @@
-
 ModName=SoD_DebugCamera - 1.1.20
 ModAuthor=BlazingTwist
 ModDescription=Reworked SoD mods for use with BepInEx 
