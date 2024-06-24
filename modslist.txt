@@ -64,7 +64,7 @@ ModCategory=Cosmetic
 ModFileName=DeathGripper.Monarchic.Murderfly.zip
 ModChecksum=34b481847b22773f12f59f5050c00619
 ############################################
-ModName=Flame Whipper Customizable Rise Of Berk Skins Mod
+ModName=Flame Whipper Lighter Stripes Skins Mod
 ModAuthor=LillaDragonLady (Discord)
 ModDescription=The mod adds the Titan and adult DeathGripper with 8 skins:
 ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/Flame.Whipper.Lighter.Stripes.zip
