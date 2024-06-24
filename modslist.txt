@@ -99,11 +99,7 @@ ModChecksum=79668a1bc065eb6946e49239317d1e49
 ############################################
 ModName=Hunted_Night Lights
 ModAuthor=Tahno (Chameishida) (Discord)
-ModDescription=Add Hoarsbrumble model as Snow wraith's skin 
-in the customization menu, including Customizable 
-Skin and Hero Skin. Also come with the Titan model if you Titan up your Snow wraith.
-Compatible with Hidden world glow, Not compatible to baby. 
-Only You and those who install the same mod will see the skin, otherwise they'll see normal Snow wraith.
+ModDescription=Add Hoarsbrumble model as Snow wraith's skin in the customization menu, including Customizable Skin and Hero Skin.
 ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/hoarsbrumble.zip
 ModDirectDownload=yes
 ModInstallPath=\Resource Packs\
