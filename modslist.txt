@@ -54,7 +54,7 @@ ModFileName=SimpleResourceReplacer.dll
 ModChecksum=ea0a2881316859c4167aee17834cbbd1
 ############################################
 ModName=DeathGripper(Monarchic Murderfly) Mod
-ModAuthor=LillaDragonLady (Discord)
+ModAuthor=LillaDragonLady
 ModDescription=The mod adds the Titan and adult DeathGripper with 8 skins:
 ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/DeathGripper.Monarchic.Murderfly.zip
 ModDirectDownload=yes
@@ -65,7 +65,7 @@ ModFileName=DeathGripper.Monarchic.Murderfly.zip
 ModChecksum=34b481847b22773f12f59f5050c00619
 ############################################
 ModName=Flame Whipper Lighter Stripes Skins Mod
-ModAuthor=LillaDragonLady (Discord)
+ModAuthor=LillaDragonLady
 ModDescription=The mod adds the Titan and adult DeathGripper with 8 skins:
 ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/Flame.Whipper.Lighter.Stripes.zip
 ModDirectDownload=yes
@@ -76,7 +76,7 @@ ModFileName=Flame.Whipper.Customizable.Look.zip
 ModChecksum=5ca7a4e0fd24b427b81f04afdf0909a3
 ############################################
 ModName=Flame Whipper Customizable Rise Of Berk Skins Mod
-ModAuthor=LillaDragonLady (Discord)
+ModAuthor=LillaDragonLady
 ModDescription=The mod adds the Titan and adult DeathGripper with 8 skins:
 ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/Flame.Whipper.Customizable.Look.zip
 ModDirectDownload=yes
@@ -87,7 +87,7 @@ ModFileName=Flame.Whipper.Customizable.Look.zip
 ModChecksum=3b73cf2b86439801baf69d9e4a83f44d
 ############################################
 ModName=Golden Wiongs (razorwhip)
-ModAuthor=squeakycinnamonroll (Discord)
+ModAuthor=squeakycinnamonroll
 ModDescription=The mod adds Golden Whip Skin for Razorwhip :
 ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/Golden.Wings.zip
 ModDirectDownload=yes
@@ -97,8 +97,8 @@ ModCategory=Cosmetic
 ModFileName=Golden.Wings.zip
 ModChecksum=79668a1bc065eb6946e49239317d1e49
 ############################################
-ModName=Hunted_Night Lights
-ModAuthor=Tahno (Chameishida) (Discord)
+ModName=hoarsbrumble
+ModAuthor=Tahno (Chameishida)
 ModDescription=Add Hoarsbrumble model as Snow wraith's skin in the customization menu, including Customizable Skin and Hero Skin.
 ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/hoarsbrumble.zip
 ModDirectDownload=yes
@@ -109,13 +109,8 @@ ModFileName=hoarsbrumble.zip
 ModChecksum=f388f514772aee83747facd2cde4d34e
 ############################################
 ModName=Windgnasher Titan Uprising Port
-ModAuthor=Serpyderpy (Discord)
-ModDescription=Customisable Windgnasher Skin [ID 3600001]
-    Woodland Windgnasher Skin [ID 3600002]
-    Defender Windgnasher Skin [ID 3600003]
-    Galegrinder Windgnasher Skin [ID 3600004]
-    Vindjakker Windgnasher Skin [ID 3600005]
-    Kulingbiter Windgnasher Skin [ID 3600006]
+ModAuthor=Serpyderpy
+ModDescription=Customisable Skin ,Woodland,Defender,Galegrinder,Vindjakker,Kulingbiter
 ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/WindgnasherSerpy.zip
 ModDirectDownload=yes
 ModInstallPath=\Resource Packs\
@@ -125,7 +120,7 @@ ModFileName=WindgnasherSerpy.zip
 ModChecksum=4ce7c0b3957b85d8806564f001609c06
 ############################################
 ModName=Hunted_Night Lights
-ModAuthor=Frija (Discord)
+ModAuthor=Frija
 ModDescription=The mod adds add 3 Skins (Dart,Rufficon,Ruffrunne):
 ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/Hunted_Night_Lights.zip
 ModDirectDownload=yes
@@ -136,7 +131,7 @@ ModFileName=Hunted_Night_Lights.zip
 ModChecksum=6b2cca9472ef6dbd761ad1a85dd2002e
 ############################################
 ModName=DeathGripper Skins Mod
-ModAuthor=LillaDragonLady (Discord)
+ModAuthor=LillaDragonLady
 ModDescription=The mod adds the Titan and adult DeathGripper with 8 skins:
 ModDownloadLink=https://github.com/tobyw121/SoDOff_navigator_modslist/releases/download/Cosmetic/DeathGripper.zip
 ModDirectDownload=yes
