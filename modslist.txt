@@ -42,16 +42,16 @@ ModCategory=Utility
 ModFileName=BepInEx_x86_5.4.22.0.zip
 ModChecksum=cfc876d5941095564e94ce4019bb246e
 ############################################
-ModName=Simple Resource Replacer V2.4.1
+ModName=Simple Resource Replacer V2.4.2
 ModAuthor=Aidanamite
 ModDescription=A mod to simplify and manage the installation of resource packs
-ModDownloadLink=https://github.com/Aidanamite/SimpleTextureReplacer/releases/download/2.4.1/SimpleResourceReplacer.dll
+ModDownloadLink=https://github.com/Aidanamite/SimpleTextureReplacer/releases/download/2.4.2/SimpleResourceReplacer.dll
 ModDirectDownload=yes
 ModInstallPath=\BepInEx\plugins\
 ModDependency=BepInEx
 ModCategory=Utility
 ModFileName=SimpleResourceReplacer.dll
-ModChecksum=ea0a2881316859c4167aee17834cbbd1
+ModChecksum=def3bb2d1f289f4acba4575bdc0e6460
 ############################################
 ModName=DeathGripper(Monarchic Murderfly) Mod
 ModAuthor=LillaDragonLady
@@ -232,13 +232,13 @@ ModChecksum=8d1d5c1ac3776a98120e91074efac002
 ModName=Handy Tweaks
 ModAuthor=Aidanamite
 ModDescription=Adds various optional QoL changes
-ModDownloadLink=https://github.com/Aidanamite/HandyTweaks/releases/download/1.4.3/HandyTweaks.dll
+ModDownloadLink=https://github.com/Aidanamite/HandyTweaks/releases/download/1.5.5/HandyTweaks.dll
 ModDirectDownload=yes
 ModInstallPath=\BepInEx\plugins\
 ModDependency=Config Tweaks
 ModCategory=Utility
 ModFileName=HandyTweaks.dll
-ModChecksum=77b5e094257674b0eb052caf588a6d38
+ModChecksum=8742ea1bd858b6abe65e60c8482f0705
 ############################################
 ModName=Battle Replay
 ModAuthor=Aidanamite
